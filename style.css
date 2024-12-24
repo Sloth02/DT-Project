@@ -1,0 +1,17 @@
+    .p1{
+        background-color:#FFDAB9;
+        color:rgb(8, 6, 6);
+        padding:10px 10px 10px 10px;  /*บน ขวา ล่าง ซ้าย ระยะห่างระหว่างขอบกับเนื้อหาด้านใน */
+        margin-top: 10px;
+        margin-bottom:0px;
+        margin-left:10px;
+        margin-right:10px;
+        border:solid 2px #663333;
+        border-radius: 15px 15px 15px 15px;
+    }
+    .content{
+        background-color:#FFF8DC;
+        padding:10px 10px 10px 10px;
+        margin-left:20px;
+        margin-right:20px;
+    }
